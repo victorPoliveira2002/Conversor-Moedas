@@ -1,15 +1,20 @@
-<h1 align="center">:file_cabinet: Conversões de valores DOLAR, EURO, LIBRA)</h1>
+<h1 align="center"> Conversões de valores (DOLAR, EURO, LIBRA)</h1>
 
 ## :memo: Descrição
 Projeto realizado em acompanhamento ao Imersão DEV!
 
 Realiza a conversão do valor em 3 moedas diferentes e exibe os resultados ao mesmo tempo.
 
+![Screenshot_3](https://user-images.githubusercontent.com/72527282/190527706-f0b0ce6f-35b6-49e4-8854-013b2ac5bd0e.png)
+
 ## :books: Funcionalidades
-* <b>Funcionalidade -</b> Conversor de moedas, realiza a conversão do valor digitado por umas das 3° opções disponibilizadas: dolar, euro ou libra
+* <b>Converter moeda em dolar;</b>
+* <b>Converter moeda em euro;</b>
+* <b>Converter moeda em libra;</b>
+* <b>Verificador de NULL, zero, negativos e NAN;</b>
 
 ## :wrench: Tecnologias utilizadas
-* HTML s
+* HTML
 * CSS
 * JavaScript  
 
