@@ -35,4 +35,4 @@ Realiza a conversão do valor em 3 moedas diferentes e exibe os resultados ao me
 
 ## :dart: Status do projeto
  * Projeto atualmente FINALIZADO!
- * URL: https://alura-plus-html-css.vercel.app/
+ * URL: [https://alura-plus-html-css.vercel.app/](https://conversor-moedas-bay.vercel.app/)
