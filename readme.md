@@ -9,7 +9,7 @@ Realiza a conversão do valor em 3 moedas diferentes e exibe os resultados ao me
 * <b>Funcionalidade -</b> Conversor de moedas, realiza a conversão do valor digitado por umas das 3° opções disponibilizadas: dolar, euro ou libra
 
 ## :wrench: Tecnologias utilizadas
-* HTML 
+* HTML s
 * CSS
 * JavaScript  
 
