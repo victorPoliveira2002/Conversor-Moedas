@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="pt br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/src/css/reset.css">
+    <link rel="stylesheet" href="src/css/style.css">
+    <title>Conversos de valores - Moeda</title>
+</head>
+
+<body>
+    <header>
+        <a href="https://alura.com.br/" target="_blank">
+            <img src="https://www.alura.com.br/assets/img/home/alura-logo.svg" alt="" class="alura-logo">
+        </a>
+    </header>
+    <main>
+        <div class="container">
+            <h1 class="page-title"> Conversor de moedas </h1>
+            <p class="page-subtitle"> Descubra os valores em dolar, euro ou libra </p>
+            <img src="https://www.alura.com.br/assets/img/imersoes/dev-2021/logo-imersao-conversor-de-moedas.svg"
+                class="page-logo" alt="Logo de conversão"><br><br>
+            <div class="botoes">
+                <div class="botao_dolar">
+                    <label for="moeda">Insira o valor</label><br>
+                    <input type="number" id="valorDol" size="2" /><br>
+                    <button type="submit" onclick="ConverterDolar()">Converter em dolar</button>
+                </div>
+                <div class="botao_euro">
+                    <label for="moeda">Insira o valor</label><br>
+                    <input type="number" id="valorEuro" size="2" /><br>
+                    <button type="submit" onclick="ConverterEuro()">Converter em euro</button>
+                </div>
+                <div class="botao_libra">
+                    <label for="moeda">Insira o valor</label><br>
+                    <input type="number" id="valorLibra" size="2" /><br>
+                    <button type="submit" onclick="ConverterLibra()">Converter em libra</button>
+                </div>
+            </div>
+            <br>
+            <h2 id="valorConvertidoDolar"></h2><br>
+            <h2 id="valorConvertidoEuro"></h2><br>
+            <h2 id="valorConvertidoLibra"></h2>
+        </div>
+    </main>
+    <script src="src/js/index.js"></script>
+</body>
+
+</html>
